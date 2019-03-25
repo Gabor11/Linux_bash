@@ -1,0 +1,4 @@
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.1.3              ether   xx:35:9f:xx:0f:xx   C                     eth0
+android-a1fa3f6d8c27f68  ether   xx:23:ba:xx:59:xx   C                     eth0
+192.168.1.254            ether   xx:96:82:xx:b2:xx   C                     eth0
